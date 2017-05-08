@@ -1,1 +1,2 @@
 server.compression.enabled=true
+#Reduce the size of files sent from your server to increase the speed to which they are transferred to the browser. Reduce sizes of pages by up to 70% 
