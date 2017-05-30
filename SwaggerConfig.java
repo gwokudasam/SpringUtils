@@ -33,7 +33,7 @@ public class SwaggerConfig {
                 "Demonstration of cloud-based API",
                 "API v1",
                 "Terms of service",
-                new Contact("Samuel Gwokuda", "moreInfo", "gwokudasam@google.com"),
+                new Contact("Samuel Gwokuda", "moreInfo", "gwokudasam@gmail.com"),
                 "Licensing Here",
                 "API license URL");
         return apiInfo;
